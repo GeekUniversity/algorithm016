@@ -16,3 +16,6 @@ https://leetcode.com/problems/move-zeroes/
 
 Climbing Stairs
 https://leetcode.com/problems/climbing-stairs/
+
+3Sum
+https://leetcode.com/problems/3sum/
