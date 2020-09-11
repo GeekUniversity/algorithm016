@@ -41,3 +41,6 @@ https://leetcode.com/problems/trapping-rain-water/
 
 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
+
+141. Linked List Cycle
+https://leetcode.com/problems/linked-list-cycle/
