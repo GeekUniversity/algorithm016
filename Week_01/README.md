@@ -56,3 +56,6 @@ https://leetcode.com/problems/rotate-array/
 
 #20 Valid Parentheses
 https://leetcode.com/problems/valid-parentheses/
+
+#21 Merge Two Sorted Lists
+https://leetcode.com/problems/merge-two-sorted-lists/
