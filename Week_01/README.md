@@ -42,11 +42,11 @@ https://leetcode.com/problems/trapping-rain-water/
 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
 
-141. Linked List Cycle
+#141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/
 
-142. Linked List Cycle II
+#142 Linked List Cycle II
 https://leetcode.com/problems/linked-list-cycle-ii/
 
-155. Min Stack
+#155 Min Stack
 https://leetcode.com/problems/min-stack/
