@@ -53,3 +53,6 @@ https://leetcode.com/problems/min-stack/
 
 #189 Rotate Array
 https://leetcode.com/problems/rotate-array/
+
+#20 Valid Parentheses
+https://leetcode.com/problems/valid-parentheses/
