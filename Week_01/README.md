@@ -62,3 +62,6 @@ https://leetcode.com/problems/merge-two-sorted-lists/
 
 #239 Sliding Window Maximum
 https://leetcode.com/problems/sliding-window-maximum/
+
+#24 Swap Nodes in Pairs
+https://leetcode.com/problems/swap-nodes-in-pairs/
