@@ -31,8 +31,7 @@ https://leetcode.com/problems/climbing-stairs/
 3Sum
 https://leetcode.com/problems/3sum/
 
-Trapping Rain Water
-https://leetcode.com/problems/trapping-rain-water/
+
 
 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
@@ -69,3 +68,6 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 #283 Move Zeroes
 https://leetcode.com/problems/move-zeroes/
+
+#42 Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/
