@@ -17,12 +17,6 @@
     尽可能多地动手写
     测试用例
 
-Two Sum
-https://leetcode.com/problems/two-sum/
-
-
-
-
 
 Climbing Stairs
 https://leetcode.com/problems/climbing-stairs/
@@ -73,3 +67,6 @@ https://leetcode.com/problems/trapping-rain-water/
 
 #11 Container With Most Water
 https://leetcode.com/problems/container-with-most-water/
+
+#1 Two Sum
+https://leetcode.com/problems/two-sum/
