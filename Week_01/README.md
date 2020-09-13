@@ -65,3 +65,6 @@ https://leetcode.com/problems/sliding-window-maximum/
 
 #24 Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/
+
+#25 Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/
