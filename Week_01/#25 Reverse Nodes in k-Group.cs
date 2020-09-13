@@ -9,42 +9,38 @@
  *     }
  * }
  */
-public class Solution
+public class Solution 
 {
-    public ListNode ReverseKGroup(ListNode head, int k)
+    public ListNode ReverseKGroup(ListNode head, int k) 
     {
-        // check length
+        // validate length
         int count = 0;
         var ptr = head;
-        while (count < k && ptr != null)
-        {
+        while (count < k && ptr != null) {
             ptr = ptr.next;
-            ++count;
+            ++ count;
         }
-
         if (count < k) return head;
-
+        
+        // reverse
         var reversedHead = this.ReverseLinkedList(head, k);
         head.next = ReverseKGroup(ptr, k);
         return reversedHead;
     }
-
-    private ListNode ReverseLinkedList(ListNode head, int k)
+    
+    private ListNode ReverseLinkedList(ListNode head, int k) 
     {
         ListNode prev = null;
-        ListNode curr = head;
-        ListNode next = null;
-
-        while (k > 0)
-        {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-
-            --k;
+        
+        while (k > 0) {
+            var next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+            
+            -- k;
         }
-
+        
         return prev;
     }
 }
