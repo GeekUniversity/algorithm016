@@ -15,21 +15,17 @@ public class Solution
 {
     public ListNode ReverseList(ListNode head)
     {
-        var prev2 = new ListNode();
+        ListNode prev = null;
 
         while (head != null)
         {
-            var temp2 = prev2.next;
-            var temp1 = head.next;
-
-            prev2.next = head;
-            head = head.next;
-
-            prev2.next.next = temp2;
-            head = temp1;
+            var next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
 
-        return prev2.next;
+        return prev;
     }
 }
 
