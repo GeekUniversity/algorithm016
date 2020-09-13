@@ -18,8 +18,7 @@
     测试用例
 
 
-Climbing Stairs
-https://leetcode.com/problems/climbing-stairs/
+
 
 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
@@ -68,3 +67,6 @@ https://leetcode.com/problems/two-sum/
 
 #15 3Sum
 https://leetcode.com/problems/3sum/
+
+#20 Climbing Stairs
+https://leetcode.com/problems/climbing-stairs/
