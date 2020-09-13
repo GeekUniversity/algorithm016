@@ -21,11 +21,6 @@
 Climbing Stairs
 https://leetcode.com/problems/climbing-stairs/
 
-3Sum
-https://leetcode.com/problems/3sum/
-
-
-
 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
 
@@ -70,3 +65,6 @@ https://leetcode.com/problems/container-with-most-water/
 
 #1 Two Sum
 https://leetcode.com/problems/two-sum/
+
+#15 3Sum
+https://leetcode.com/problems/3sum/
