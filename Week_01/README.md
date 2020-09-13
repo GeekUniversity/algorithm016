@@ -71,3 +71,6 @@ https://leetcode.com/problems/reverse-linked-list/
 
 #641 Design Circular Deque
 https://leetcode.com/problems/design-circular-deque/
+
+#66 Plus One
+https://leetcode.com/problems/plus-one/
