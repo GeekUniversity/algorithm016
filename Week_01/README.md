@@ -18,11 +18,6 @@
     测试用例
 
 
-
-
-Design Circular Deque
-https://leetcode.com/problems/design-circular-deque/
-
 #141 Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/
 
@@ -73,3 +68,6 @@ https://leetcode.com/problems/climbing-stairs/
 
 #206 Reverse Linked List
 https://leetcode.com/problems/reverse-linked-list/
+
+#641 Design Circular Deque
+https://leetcode.com/problems/design-circular-deque/
