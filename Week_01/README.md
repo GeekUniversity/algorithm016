@@ -17,10 +17,6 @@
     尽可能多地动手写
     测试用例
 
-
-Remove Duplicates from Sorted Array
-https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-
 Two Sum
 https://leetcode.com/problems/two-sum/
 
@@ -68,3 +64,6 @@ https://leetcode.com/problems/swap-nodes-in-pairs/
 
 #25 Reverse Nodes in k-Group
 https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+#26 Remove Duplicates from Sorted Array
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
