@@ -80,3 +80,6 @@ https://leetcode.com/problems/climbing-stairs/
 
 #88 Merge Sorted Array
 https://leetcode.com/problems/merge-sorted-array/
+
+#84 Largest Rectangle in Histogram
+https://leetcode.com/problems/largest-rectangle-in-histogram/
