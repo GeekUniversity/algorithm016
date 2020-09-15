@@ -8,3 +8,6 @@ https://leetcode.com/problems/group-anagrams/
 
 #94 Binary Tree Inorder Traversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+#144 Binary Tree Preorder Traversal
+https://leetcode.com/problems/binary-tree-preorder-traversal/
