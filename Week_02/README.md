@@ -19,3 +19,6 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 
 #589 N-ary Tree Preorder Traversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+
+#347 Top K Frequent Elements
+https://leetcode.com/problems/top-k-frequent-elements/
